@@ -1,6 +1,6 @@
 # What is plagiarism?
 
-At the Institute for Interdisciplinary Studies (IIS), we follow the definitions of plagiarism as given in [Regulations Governing Fraud and Plagiarism for UvA Students](https://student.uva.nl/binaries/content/assets/studentensites/uva-studentensite/nl/a-z/regelingen-en-reglementen/regulations-governing-fraud-and-plagiarism.pdf).
+At the Institute for Interdisciplinary Studies (IIS), we follow the definitions of plagiarism as given in [Regulations Governing Fraud and Plagiarism for UvA Students](https://student.uva.nl/binaries/content/assets/studentensites/uva-studentensite/nl/a-z/regelingen-en-reglementen/regulations-governing-fraud-and-plagiarism.pdf). Within MBCS, we expect our course coordinators to follow [best practices to prevent plagiarism](prevent-plagiarism.md).
 
 # Why this manual?
 
@@ -28,14 +28,12 @@ You can determine those by first determining a type of plagiarism from the table
 |Type number|Description|
 |:----|:-----:|
 | Type 1 |making use of or reproducing another person’s texts, data or ideas without complete and correct acknowledgement of the sources|
-
-| Type 2 |  presenting the structure or central body of ideas taken from third-party sources as one’s own work or ideas, even if a reference to other authors is included;|
+| Type 2 | presenting the structure or central body of ideas taken from third-party sources as one’s own work or ideas, even if a reference to other authors is included|
 | Type 3| failing to clearly indicate in the text – for instance by means of quotation marks or a particular layout – that literal or near-literal quotations have been included in the work, even if a correct reference to the sources has been included; |
-| Type 4 |  paraphrasing the contents of another person’s texts without sufficient reference to the sources;                                                                         |
-| Type 5	| reproducing another person’s audio, visual or test materials, or software or program codes without reference to the sources, and in doing so passing these off as one’s own work;                                 |
-| Type 6	| submitting a text that has previously been submitted, or is similar to a text that has previously been submitted, in the context of assignments for other courses;|
-| Type 7	|reproducing the work of fellow students and passing it off as one’s own;                                                                                     |
-| Type 8 | submitting papers obtained from a commercial agency or written (whether or not for payment) by another person.                                                                  | 
+| Type 4 |  paraphrasing the contents of another person’s texts without sufficient reference to the sources|
+| Type 5	| reproducing another person’s audio, visual or test materials, or software or program codes without reference to the sources, and in doing so passing these off as one’s own work |
+| Type 6	| submitting a text that has previously been submitted, or is similar to a text that has previously been submitted, in the context of assignments for other courses|
+| Type 7	|reproducing the work of fellow students and passing it off as one’s own                                                  | Type 8 | submitting papers obtained from a commercial agency or written (whether or not for payment) by another person.                                                                  | 
 
 ## Check the corresponding rubric
 
