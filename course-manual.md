@@ -19,7 +19,7 @@
 
 |Date|Time|Activity|Content|Required readings|Location|
 |:---|:---:|:---:|:---:|:---|---:|
-|October 28|09:00 - 11:00|Lecture|*dr. Harm Krugers* on fear conditioning||SP A1.11|
+|October 28|09:00 - 11:00|Lecture|**dr. Harm Krugers** on fear conditioning||SP A1.11|
 |October 30|15:00 - 17:00|Tutorial|We will compare fear conditioning studies in humans and rodents|None|SP B2.07|
 
 ## Location
