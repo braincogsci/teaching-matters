@@ -19,7 +19,7 @@
 
 |Date|Time|Activity|Content|Required readings|Location|
 |:---|:---:|:---:|:---:|:---|---:|
-|October 28|09:00 - 11:00|Lecture|**dr. Harm Krugers** on fear conditioning||SP A1.11|
+|October 28|09:00 - 11:00|Lecture|**dr. Harm Krugers** on fear conditioning|Maren, S., Phan, K. L., & Liberzon, I. (2013). The contextual brain: implications for fear conditioning, extinction and psychopathology. *Nature reviews neuroscience, 14*(**6**), 417-428.|SP A1.11|
 |October 30|15:00 - 17:00|Tutorial|We will compare fear conditioning studies in humans and rodents|None|SP B2.07|
 
 ## Location
@@ -46,7 +46,7 @@ The following table lists the different graded components in the course and thei
 |Exams|20 hours|
 |Proposal|40 hours|
 |Presentation|10 hours|
-|Total|168 EC|
+|Total|168 hours|
 
 ## Participation
 This course follows the participation rules as established in the MBCS TER-B of the current academic year:
